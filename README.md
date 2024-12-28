@@ -29,7 +29,7 @@ Mi objetivo es obtener mi primer puesto como Programador Junior o Ingeniero de S
 - Explorando nuevos proyectos que combinen la **Electrónica** y el **Desarrollo de Software**.
 - Buscando oportunidades para mi primer empleo como programador.
 
-Puedes visitar mi portafolio aquí: [Portafolio](https://guillermosoftwareengineer.github.io/Portfolio/)
+Puedes visitar mi portafolio aquí: [Portafolio]([https://guillermosoftwareengineer.github.io/Portfolio/](https://guillermosoftwareengineer.github.io/Portfolio/))
 
 ---
 
@@ -41,7 +41,7 @@ Puedes visitar mi portafolio aquí: [Portafolio](https://guillermosoftwareengine
 
 ## 🌟 Contáctame
 
-- **Correo electrónico**: [tuemail@gmail.com](guillermovasbendev@gmail.com)
-- **LinkedIn**: [linkedin.com/in/guillermo](https://www.linkedin.com/in/guillermovasbendev/)
-- **Portafolio**: [Portafolio Web](https://guillermosoftwareengineer.github.io/Portfolio/)
-- **Platzi**: [Perfil en Platzi](https://platzi.com/p/guillermovasben11/) 
+- **Correo electrónico**: (guillermovasbendev@gmail.com)
+- **LinkedIn**: (https://www.linkedin.com/in/guillermovasbendev/)
+- **Portafolio**: (https://guillermosoftwareengineer.github.io/Portfolio/)
+- **Platzi**:(https://platzi.com/p/guillermovasben11/) 
