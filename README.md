@@ -23,7 +23,7 @@ Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Ude
       </ul>
     </td>
     <td valign="top" width="45%" align="center">
-      <img src="https://github.com/user-attachments/assets/6e385000-db98-464c-969d-6fbf66e98ee5" alt="Blueprint de Software y Hardware en funcionamiento" width="90%"/>
+      <img src="https://github.com/user-attachments/assets/724236e9-2c8a-4ff9-bf50-092b7264930d" alt="Blueprint de Software y Hardware en funcionamiento" width="90%"/>
     </td>
   </tr>
 </table>
