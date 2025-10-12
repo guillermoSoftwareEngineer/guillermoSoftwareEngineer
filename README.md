@@ -6,15 +6,14 @@
 ---
 
 ## Sobre mí
-Soy Tecnólogo en Electrónica e Instrumentación Industrial con amplia experiencia en Electrónica de Potencia.  
-Actualmente estudio Ingeniería de Software y realizo cursos en Platzi y Udemy. Busco mi primer rol como **Programador Junior / Ingeniero de Software Junior**, donde pueda combinar mi background electrónico con el desarrollo de software.
+Soy **Tecnólogo en Electrónica e Instrumentación Industrial** con amplia experiencia en Electrónica de Potencia. 
+Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Udemy. Busco mi primer rol como **Programador Junior / Ingeniero de Software Junior**, donde pueda combinar mi background electrónico con el desarrollo de software.
 
 ---
 
 ## Rapidfire
-<table>
+<table width="100%">
   <tr>
-    <!-- Columna izquierda: lista -->
     <td valign="top" width="55%">
       <ul>
         <li>Estudiando Ingeniería de Software</li>
@@ -23,9 +22,8 @@ Actualmente estudio Ingeniería de Software y realizo cursos en Platzi y Udemy. 
         <li>Integrando electrónica de potencia con software</li>
       </ul>
     </td>
-    <!-- Columna derecha: captura o GIF (opcional) -->
-    <td valign="top" width="45%">
-      <img src="TU_IMAGEN" alt="Captura de código" />
+    <td valign="top" width="45%" align="center">
+      <img src="https://github.com/user-attachments/assets/6e385000-db98-464c-969d-6fbf66e98ee5" alt="Blueprint de Software y Hardware en funcionamiento" width="90%"/>
     </td>
   </tr>
 </table>
@@ -33,7 +31,6 @@ Actualmente estudio Ingeniería de Software y realizo cursos en Platzi y Udemy. 
 ---
 
 ## Tecnologías y herramientas
-<!-- Puedes añadir o quitar badges según corresponda -->
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
