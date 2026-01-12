@@ -1,4 +1,5 @@
 <h1 align="center">Guillermo Vásquez</h1>
+
 <p align="center">
   Tecnólogo en Electrónica e Instrumentación Industrial • Estudiante de Ingeniería de Software
 </p>
@@ -6,7 +7,7 @@
 ---
 
 ## Sobre mí
-Soy **Tecnólogo en Electrónica e Instrumentación Industrial** con amplia experiencia en Electrónica de Potencia. 
+Soy **Tecnólogo en Electrónica e Instrumentación Industrial** con amplia experiencia en Electrónica de Potencia.  
 Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Udemy. Busco mi primer rol como **Programador Junior / Ingeniero de Software Junior**, donde pueda combinar mi background electrónico con el desarrollo de software.
 
 ---
@@ -59,11 +60,10 @@ Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Ude
 ---
 
 ## Estadísticas de GitHub
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillermoSoftwareEngineer&show_icons=true&theme=radical)
-  <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoSoftwareEngineer&layout=compact&theme=radical)
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillermoSoftwareEngineer&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoSoftwareEngineer&layout=compact&theme=github_dark)
 
 ---
 
