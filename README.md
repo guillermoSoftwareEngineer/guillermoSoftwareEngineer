@@ -25,7 +25,7 @@ Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Ude
       </ul>
     </td>
     <td valign="top" width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/guillermoSoftwareEngineer/assets/main/gift/githubReadmeconLogo.gif" alt="Blueprint de Software y Hardware en funcionamiento" width="90%" />
+      <img src="https://raw.githubusercontent.com/guillermoSoftwareEngineer/assets/main/gift/githubReadmeconLogo.gif" width="90%" />
     </td>
   </tr>
 </table>
@@ -67,9 +67,13 @@ Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Ude
 
 ## Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillermoSoftwareEngineer&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guillermoSoftwareEngineer&show_icons=true&theme=github_dark" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoSoftwareEngineer&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoSoftwareEngineer&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
