@@ -7,21 +7,24 @@
 ---
 
 ## Sobre mí
-Soy **Tecnólogo en Electrónica e Instrumentación Industrial** con amplia experiencia en Electrónica de Potencia.  
-Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Udemy. Busco mi primer rol como **Programador Junior / Ingeniero de Software Junior**, donde pueda combinar mi background electrónico con el desarrollo de software.
+
+Soy **Tecnólogo en Electrónica e Instrumentación Industrial** con experiencia en **Electrónica de Potencia y sistemas industriales**.  
+Actualmente curso **Ingeniería de Software**, enfocado en **desarrollo frontend y aplicaciones web**, integrando buenas prácticas de programación, arquitectura básica y manejo de datos en el navegador.
+
+Busco mi primer rol como **Desarrollador Junior / Ingeniero de Software Junior**, donde pueda aportar tanto desde el **software** como desde mi formación técnica en **electrónica e instrumentación**.
 
 ---
 
-## Rapidfire
+## Perfil rápido
 
 <table width="100%">
   <tr>
     <td valign="top" width="55%">
       <ul>
-        <li>Estudiando Ingeniería de Software</li>
-        <li>Aprendiendo Flutter, Firebase y Angular</li>
-        <li>Construyendo mi portafolio web</li>
-        <li>Integrando electrónica de potencia con software</li>
+        <li>Estudiante de Ingeniería de Software (8° semestre)</li>
+        <li>Desarrollo Frontend con HTML, CSS y JavaScript</li>
+        <li>Proyectos CRUD, manejo de estado y LocalStorage</li>
+        <li>Interés en integración software + sistemas físicos</li>
       </ul>
     </td>
     <td valign="top" width="45%" align="center">
@@ -51,28 +54,28 @@ Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Ude
 
 ---
 
-## Proyectos en curso
+## Proyectos destacados
 
-<details>
-  <summary>Ver proyectos actuales</summary>
+- **Attendance Manager (CRUD Web)**  
+  Aplicación web para gestión de empleados y asistencias.  
+  Uso de JavaScript modular, LocalStorage, filtros por fecha, exportación CSV y UI responsiva.
 
-  - **Portafolio web** (HTML, CSS, JavaScript)  
-  - **Invoice Drive** (Flutter + Firebase, escaneo QR)  
-  - Prototipos que integran electrónica de potencia y software  
-  - Ejercicios de práctica en C++ y Python
+- **Portafolio Web**  
+  Sitio personal enfocado en presentación profesional y proyectos.
 
-</details>
+- **Prototipos Software + Electrónica**  
+  Integración de lógica de software con conceptos de instrumentación y electrónica de potencia.
 
 ---
 
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guillermoSoftwareEngineer&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guillermoSoftwareEngineer&show_icons=true&theme=dark&hide_border=true&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoSoftwareEngineer&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoSoftwareEngineer&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" />
 </p>
 
 ---
@@ -80,5 +83,5 @@ Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Ude
 ## Contacto
 
 - **Correo**: <a href="mailto:guillermovasbendev@gmail.com">guillermovasbendev@gmail.com</a>  
-- **LinkedIn**: <https://www.linkedin.com/in/guillermovasbendev/>  
-- **Platzi**: <https://platzi.com/p/guillermovasben11/>
+- **LinkedIn**: https://www.linkedin.com/in/guillermovasbendev/  
+- **Platzi**: https://platzi.com/p/guillermovasben11/
