@@ -60,9 +60,9 @@ Actualmente estudio **Ingeniería de Software** y realizo cursos en Platzi y Ude
 
 ## Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guillermoSoftwareEngineer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillermoSoftwareEngineer&show_icons=true&theme=radical)
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoSoftwareEngineer&layout=compact&theme=radical" alt="Top Langs" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoSoftwareEngineer&layout=compact&theme=radical)
 </p>
 
 ---
