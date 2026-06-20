@@ -67,7 +67,7 @@ El mercado no necesita otro "apasionado desarrollador" que sabe configurar un fr
 **[Portafolio Técnico 2026](https://guillermosoftwareengineer.github.io/architect_portfolio_2026/)**
 Next.js 16 + TypeScript + Prisma ORM, con SEO estructurado (JSON-LD) y sistema de diseño propio. No es una landing page — es la demostración del enfoque: arquitectura primero, estética después.
 
-**GTech·Device — Sistema IoT RFID (ESP32)**
+**[GTech·Device — Sistema IoT RFID (ESP32)](https://github.com/guillermoSoftwareEngineer/esp32-rfid-iot-telemetry)**
 De MVP funcional a sistema robusto: máquina de estados, cola de eventos offline con cero pérdida de datos, gestión de tarjetas vía EEPROM sin recompilar firmware, y backend serverless con Google Apps Script. La versión 2 está documentada de punta a punta, incluyendo los fallos reales y cómo se resolvieron.
 
 ---
